@@ -1,0 +1,3 @@
+Client ID: 576193122192-8or34o33v7j45gv1kd8q3golf267hact.apps.googleusercontent.com
+
+Client Secret: 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
